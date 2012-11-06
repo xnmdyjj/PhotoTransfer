@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  PhotoTransfer
+
+  Created by Yu Jianjun on 9/27/12.
+  Copyright (c) 2012 Yu Jianjun. All rights reserved.
+*/
+
+"Photo Transfer" = "照片传送";
+
+"Send Photos" = "发送照片";
+
+"Start HTTP Server" = "开启HTTP服务";
+
+"HTTP Server Started" = "HTTP服务已开启";
+
+"Received Photos" = "已接收到的照片";
+
+"Browse Photos" = "浏览照片";
+
+"Local Devices" = "可连接上的设备";
+
+"Transfer" = "传送";
+
+"Delete" = "删除";
+
+"Searching Device..." = "正在搜索设备...";
+
+"Send Photos Success" = "发送照片成功";
+
+"Failed to send photos" = "发送照片失败";
+
+"OK" = "确定";
+
+"photoTransferDesKey" = "确保两台设备连上wifi网络，并在同一个局域网内，其中一台设备已开启HTTP服务。";
+
+"receivePhotosDesKey" = "通过在电脑浏览器上输入以上地址，可以把照片传送到该设备上。";

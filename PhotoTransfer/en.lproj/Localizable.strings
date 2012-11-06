@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  PhotoTransfer
+
+  Created by Yu Jianjun on 9/27/12.
+  Copyright (c) 2012 Yu Jianjun. All rights reserved.
+*/
+
+
+"Photo Transfer" = "Photo Transfer";
+
+"Send Photos" = "Send Photos";
+
+"Start HTTP Server" = "Start HTTP Server";
+
+"HTTP Server Started" = "HTTP Server Started";
+
+"Received Photos" = "Received Photos";
+
+"Browse Photos" = "Browse Photos";
+
+"Local Devices" = "Local Devices";
+
+"Transfer" = "Transfer";
+
+"Delete" = "Delete";
+
+"Searching Device..." = "Searching Device...";
+
+"Send Photos Success" = "Send Photos Success";
+
+"Failed to send photos" = "Failed to send photos";
+
+"OK" = "OK";
+
+"photoTransferDesKey" = "Make sure your device is wifi connected, if you want to send photos to another device or browse photos on another device, make sure another device opened this application and started http server";
+
+
+"receivePhotosDesKey" = "If you want to transfer photos from computer to this device, you could open above address in browser to upload photos.";
